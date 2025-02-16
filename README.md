@@ -1,7 +1,7 @@
 # Data-Science-in-Finance
 Course Assignment From Data Science in Finance
 
-## Kaggle datasets (Top Finance datasets)
+## Kaggle datasets (Top finance datasets)
 https://www.kaggle.com/discussions/general/447646 
 
 ## Lending club data from Kaggle 
