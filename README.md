@@ -5,6 +5,8 @@ Course Assignment From Data Science in Finance
 
 ### Assignment 2: Build a Baseline Model 
 
+### Assignment 3: Develop a challenger model
+
 ### 
 
 ## Kaggle datasets (Top finance datasets)
