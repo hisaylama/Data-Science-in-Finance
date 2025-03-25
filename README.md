@@ -2,6 +2,11 @@
 Course Assignment From Data Science in Finance
 
 ### Assignment 1: Cleaning of lending datasets 
+
+### Assignment 2: Build a Baseline Model 
+
+### 
+
 ## Kaggle datasets (Top finance datasets)
 https://www.kaggle.com/discussions/general/447646 
 
