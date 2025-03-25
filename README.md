@@ -7,6 +7,8 @@ Course Assignment From Data Science in Finance
 
 ### Assignment 3: Develop a challenger model
 
+### Assignment 4: Create a customer segmentation
+
 ### 
 
 ## Kaggle datasets (Top finance datasets)
