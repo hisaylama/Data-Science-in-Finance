@@ -1,5 +1,5 @@
 # Data-Science-in-Finance
-Course Assignment From Data Science in Finance
+Course assignment from data science in finance in Elvtr course.
 
 ### Assignment 1: Cleaning of lending datasets 
 
