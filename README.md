@@ -9,6 +9,8 @@ Course assignment from data science in finance in Elvtr course.
 
 ### Assignment 4: Create a customer segmentation
 
+### Assignment 5: Time series forecasting using LSTM 
+
 ### 
 
 ### Datasets for the assignments:
