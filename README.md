@@ -7,7 +7,7 @@
 - Assignment 4: Create a customer segmentation for credit card dataset
 - Assignment 5: Time series forecasting using LSTM for Apple Inc (Yahoo finance)
 - Assignment 6: Building real time webapp for prediction fraud and nonfraud transactions
-- Practice 1: Fraud detection using autoencoders
+- Exploratory 1: Fraud detection using autoencoders
 
 ### 
 
