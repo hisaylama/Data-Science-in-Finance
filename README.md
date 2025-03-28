@@ -1,19 +1,15 @@
 # Data-Science-in-Finance
 Course assignment from data science in finance in Elvtr course.
 
-### Assignment 1: Cleaning of lending datasets 
-
-### Assignment 2: Build a Baseline Model 
-
-### Assignment 3: Develop a challenger model
-
-### Assignment 4: Create a customer segmentation
-
-### Assignment 5: Time series forecasting using LSTM 
+- **Assignment 1: Cleaning of datasets and exploratory data analysis** 
+- **Assignment 2: Build a Baseline Model** 
+- **Assignment 3: Develop a challenger model**
+- **Assignment 4: Create a customer segmentation**
+- **Assignment 5: Time series forecasting using LSTM** 
 
 ### 
 
-### Datasets for the assignments:
+**Datasets for the assignments:**
 
 ## Kaggle datasets ([Top finance datasets](https://www.kaggle.com/discussions/general/447646))
 
