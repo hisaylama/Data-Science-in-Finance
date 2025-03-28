@@ -5,7 +5,8 @@ Course assignment from data science in finance in Elvtr course.
 - **Assignment 2: Build a Baseline Model for lending dataset** 
 - **Assignment 3: Develop a challenger model for lending dataset**
 - **Assignment 4: Create a customer segmentation for credit card dataset**
-- **Assignment 5: Time series forecasting using LSTM for Apple Inc (Yahoo finance)** 
+- **Assignment 5: Time series forecasting using LSTM for Apple Inc (Yahoo finance)**
+- **Assignment 6: Building real time webapp for prediction fraud and nonfraud transactions**
 
 ### 
 
