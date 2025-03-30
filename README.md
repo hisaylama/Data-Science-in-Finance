@@ -1,5 +1,5 @@
 # Data-Science-in-Finance
-**Course assignment from data science in finance in ELVTR course**
+**Course assignment from data science in finance from ELVTR, U.K.**
 
 - Assignment 1: Cleaning of datasets and exploratory data analysis
 - Assignment 2: Build a Baseline Model for lending dataset (2, 2-2, 2-3)
