@@ -7,6 +7,7 @@
 - Assignment 4: Create a customer segmentation for the credit card dataset
 - Assignment 5: Time series forecasting of Apple Inc. stock price using LSTM (data taken from Yahoo finance)
 - Assignment 6: Building a time webapp for prediction fraud and nonfraud transactions
+- Assignment 7: Building ML architecture for lending datasets problem
 - Exploratory 1: Fraud detection using autoencoders
 
 ### 
