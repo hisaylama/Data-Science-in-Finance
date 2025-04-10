@@ -8,6 +8,7 @@
 - Assignment 5: Time series forecasting of Apple Inc. stock price using LSTM (data taken from Yahoo finance)
 - Assignment 6: Building a time webapp for prediction fraud and nonfraud transactions
 - Assignment 7: Building ML architecture for lending datasets problem
+- Assignment 8: Push code to the git
 - Exploratory 1: Fraud detection using autoencoders
 
 ### 
